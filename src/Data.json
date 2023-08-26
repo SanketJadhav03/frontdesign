@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Prashant",
+        "type":"Full Sleaves",
+        "price":100
+    },
+    
+    {
+        "name":"Jersey",
+        "type":"Full Sleaves",
+        "price":  800
+    },
+    {
+        "name":"Pent",
+        "type":"Full Bottom",
+        "price": 10
+    },
+    {
+        "name":"Shirt",
+        "type":"Full Sleaves",
+        "price":500
+    },
+    {
+        "name":"Bag",
+        "type":"Skybags",
+        "price":1400
+    }
+]
